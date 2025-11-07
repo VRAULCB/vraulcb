@@ -1,0 +1,27 @@
+[
+    {
+        "id": "oficinaA",
+        "nombre": "Oficina A",
+        "descripcion": "Área de trabajo principal."
+    },
+    {
+        "id": "oficinaB",
+        "nombre": "Oficina B",
+        "descripcion": "Zona administrativa."
+    },
+    {
+        "id": "servidores",
+        "nombre": "Sala de Servidores",
+        "descripcion": "Acceso restringido al personal técnico."
+    },
+    {
+        "id": "recepcion",
+        "nombre": "Recepción",
+        "descripcion": "Punto de atención principal."
+    },
+    {
+        "id": "1",
+        "nombre": "soporte",
+        "descripcion": "soporte"
+    }
+]
